@@ -197,9 +197,9 @@ Example response from the API reference, abridged — real values depend on the 
   "best_offer": {
     "price": 21.54,
     "seller": {
-      "id": "12136181",
-      "name": "Leroy Merlin",
-      "type": "1P"
+      "id": "example",
+      "name": "example",
+      "type": "example"
     },
     "currency": "EUR",
     "available": true,
@@ -383,8 +383,8 @@ Example response from the API reference, abridged — real values depend on the 
       "title": "Colle d'assemblage gel 604202 AXTON, 250ml, 250 g transparent",
       "rating": 4.5,
       "seller": {
-        "name": "Leroy Merlin",
-        "type": "1P"
+        "name": "example",
+        "type": "example"
       },
       "currency": "EUR",
       "position": 1,
@@ -400,8 +400,8 @@ Example response from the API reference, abridged — real values depend on the 
       "title": "Colle en tube PVC AXTON, 60 ml",
       "rating": 4.4,
       "seller": {
-        "name": "Leroy Merlin",
-        "type": "1P"
+        "name": "example",
+        "type": "example"
       },
       "currency": "EUR",
       "position": 2,
