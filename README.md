@@ -528,12 +528,12 @@ Use Piloterr from your own language with a typed client:
 
 ## Related scrapers
 
+- [Jobs Scraper API](https://github.com/piloterr/jobs-scraper)
 - [About You Scraper API](https://github.com/piloterr/aboutyou-scraper)
 - [Action Scraper API](https://github.com/piloterr/action-scraper)
 - [Aldi Scraper API](https://github.com/piloterr/aldi-scraper)
 - [Alibaba Scraper API](https://github.com/piloterr/alibaba-scraper)
 - [AliExpress Scraper API](https://github.com/piloterr/aliexpress-scraper)
-- [Allegro Scraper API](https://github.com/piloterr/allegro-scraper)
 - [All Piloterr scrapers on GitHub](https://github.com/piloterr)
 
 ## Support
